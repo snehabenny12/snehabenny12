@@ -36,6 +36,16 @@ A simple Django-based event booking system with form handling and admin dashboar
 
 ---
 
+### 🔹 [Employee Management System](https://github.com/snehabenny12/EMPLOYEEMANAGEMENT)
+A backend Django REST API project for managing employee records.  
+✅ Features:
+- API endpoints for CRUD operations  
+- Uses Django REST Framework  
+- Connected to SQLite/MySQL  
+> *Frontend integration planned for future*
+
+---
+
 ## 📫 Contact Me
 
 - ✉️ **Email**: [snehabenny12@gmail.com](mailto:snehabenny12@gmail.com)  
