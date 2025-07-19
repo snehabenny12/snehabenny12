@@ -8,32 +8,35 @@
 
 ## 💼 Skills
 
-- Python | Django | Django REST Framework  
-- HTML | CSS | Bootstrap  
-- Git & GitHub  
-- SQLite, MySQL  
-- Visual Studio Code
+- **Languages & Frameworks**: Python, Django, Django REST Framework  
+- **Frontend**: HTML, CSS, Bootstrap  
+- **Tools & Platforms**: Git, GitHub, Visual Studio Code  
+- **Databases**: SQLite, MySQL  
 
 ---
 
 ## 🔧 Projects
 
 ### 🔹 [Clinical Management System](#)
-A Django project with JWT-based user login, signup, and role-based dashboards (Admin, Doctor, Patient).  
+A Django REST project with JWT-based authentication and role-based dashboards for Admin, Doctor, and Patient.  
 ✅ Features:
-- JWT Authentication using SimpleJWT  
-- Role-based access (RBAC)  
-- REST APIs for protected data  
-> *(Link will be updated after uploading to GitHub)*
+- JWT authentication using `SimpleJWT`  
+- Role-Based Access Control (RBAC)  
+- Protected REST API endpoints  
+> *(GitHub link will be updated soon)*
 
 ---
 
-### 🔹 [EVENTMANAGEMENT](https://github.com/snehabenny12/EVENTMANAGEMENT)
-Simple Django-based event booking system with form handling and admin dashboard.
+### 🔹 [Event Management System](https://github.com/snehabenny12/EVENTMANAGEMENT)
+A simple Django-based event booking system with form handling and admin dashboard.  
+✅ Features:
+- User booking form  
+- Event listing  
+- Admin panel for managing bookings
 
 ---
 
 ## 📫 Contact Me
 
-- ✉️ Email: snehabenny12@gmail.com  
-- 🔗 GitHub: [snehabenny12](https://github.com/snehabenny12)
+- ✉️ **Email**: [snehabenny12@gmail.com](mailto:snehabenny12@gmail.com)  
+- 🔗 **GitHub**: [snehabenny12](https://github.com/snehabenny12)
